@@ -1,0 +1,3 @@
+include ':Extractor'
+include ':app'
+rootProject.name = "TextExtractor"
